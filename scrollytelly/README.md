@@ -8,4 +8,4 @@ The US Virgin Islands (USVI), known for its vibrant culture and attractive lands
 - Base map style from Mapbox [link](https://www.mapbox.com/gallery)
 
 ## How to view my story map?
-Please click [link](https://cenjinheng.github.io/story-map-project/) here!
+Please click [link](https://cenjinheng.github.io/story-map-project/) and scroll down to view floodind risk in three islands of USVI
