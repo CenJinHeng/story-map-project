@@ -1,3 +1,43 @@
+.hero {
+  min-height: 90vh;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+
+.hero-overlay h1 {
+  text-align: center;
+  font-size: 2.5rem;  
+  margin-top: -100px
+}
+
+.hero-overlay p {
+  text-align: center;
+  margin: 0 auto
+  font-size: 0.8rem; 
+  color:#888; 
+  max-width: 800px;
+  line-height: 1.6;
+  text-align: justify
+}
+
+.map-note {
+  color: #888; 
+  margin-top: 5rem
+}
+
+.map-note .flood-color {
+  color: #2551ff;    
+  font-weight: bold;
+}
+
+.Scroll {
+  margin-top: 10rem
+}
+
+html {
+  scroll-behavior: smooth;
+
 body {
   margin: 0;
   border-width: 0;
@@ -41,6 +81,13 @@ body {
 
   background-color: white;
   color: black;
+}
+
+.slide p {
+  color: #888;           
+  font-size: 1rem;      
+  line-height: 1.6;             
+  margin: 1rem auto 0
 }
 
 .slide:first-child {
