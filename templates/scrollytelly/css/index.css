@@ -31,10 +31,6 @@
   font-weight: bold;
 }
 
-.Scroll {
-  margin-top: 10rem
-}
-
 html {
   scroll-behavior: smooth;
 
